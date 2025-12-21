@@ -1,4 +1,4 @@
-# Linux SSH Brute Force Detection (SOC Beginner Project)
+# Linux SSH Brute Force Detection (SOC Project)
 
 ## Giới thiệu
 Dự án cá nhân nhằm phát hiện hành vi tấn công dò mật khẩu SSH (SSH Brute Force)
