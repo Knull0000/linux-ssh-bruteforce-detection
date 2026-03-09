@@ -35,7 +35,7 @@ Trong quá trình phân tích log phát hiện:
 Ví dụ log:
 
 ```
-Failed password for user1 from 192.168.233.130 port 51432 ssh2
+Failed password for user1 from 192.168.233.130 port 49016 ssh2
 ```
 
 ---
